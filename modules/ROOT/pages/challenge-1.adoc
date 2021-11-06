@@ -34,7 +34,7 @@ Firstly, your phone has to be configured to take photos using your palm. Not all
 
 ==== Shooting Method Setup
 
-. Go to your mobile phone settings, and then to “Apps”: 
+. Firstly, go to your *mobile phone Settings*, and then to “Apps”: 
 +
 image::mobile-settings.png[role="zoom"]
 . Find the “Camera” app and tap on it:
@@ -50,7 +50,7 @@ image::camera-settings.png[role="zoom"]
 +
 image::shooting-methods.png[role="zoom"]
 
-NOTE: If you don’t see this option under the shooting methods, your camera probably can’t be configured to take a selfie using your palm.
+NOTE: If you don’t see this option under the shooting methods, your camera probably can’t be configured to take a selfie using your palm. 
 
 ==== Changing to Selfie Mode and Taking the Snap
 
@@ -64,4 +64,5 @@ image::switch-icon.png[role="zoom"]
 +
 image::palm-pic.png[role="zoom"]
 
-Hey presto, a shutter icon will indicate a short countdown, before a picture is taken.
+Hey presto, a shutter icon will indicate a short countdown before the picture is taken.
+Note: If you are not using a Samsung A41, you might need to check with the manufacturer's instructions for your particular mobile

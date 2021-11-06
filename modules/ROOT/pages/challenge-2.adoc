@@ -21,14 +21,14 @@ You know already that Git allows you to track changes in any set of files. For i
 
 This repository may have several branches, for example, relating to various fixes and features, which different people may have done.
 
-image::git-branches-merge.png[role="zoom", scaledwidth="25%"]
+image::git-branches-merge.png[width=400]
 
 A merge or pull request is required to combine branches after work is complete in the respective branches depending on what needs to be merged. To refresh your knowledge on Git and tracking what has been done, read further here: https://www.nobledesktop.com/blog/what-is-git-and-why-should-you-use-it[What is Git]
 
 ==== Merging
 In the graphic below, two branches from the master branch are shown. A hotfix branch and a feature development branch called "iss53".
 
-image::basic-branching-4.png[role="zoom", scaledwidth="25%"]
+image::basic-branching-4.png[width=400]
 
 To combine the hotfix branch into the master branch, we first checkout the master branch and then perform the merge command:
 [source,git]
@@ -37,12 +37,13 @@ $ git checkout master
 $ git merge hotfix
 ----
 
-For more information about conflicts when merging, please refer to: link:https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging[Basic Branching and Merging]
+For more information about conflicts when merging and the merge procedure itself, please refer to: link:https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging[Basic Branching and Merging]
 
 ==== Pulling a Branch
-In contrast to the merging described above, pulling a branch is a combination of fetching a remote repository and merging it with a local repository `git fetch + git merge`. In the graphic below, there are two branches, a local one and a remote branch, which diverge after point "D". Merging the remote to the local branch would create a new point in the local branch containing additionally all the remote points.
+In contrast to the merging described above, pulling a branch is a combination of fetching a remote repository and merging it with a local repository `git fetch + git merge`. 
+A local branch and a remote branch are depicted in the graphic below. The branches diverge after point "D", and merging the remote one to the local branch would create a new point in the local branch containing all the remote points.
 
-image::bubble-diagram.svg[role="zoom", scaledwidth="25%"]
+image::bubble-diagram.svg[width=400]
 
 The command to pull a remote branch in this way is:
 [source,git]
@@ -50,4 +51,4 @@ The command to pull a remote branch in this way is:
 $ git pull <remote_repository>
 ----
 
-For more information on common options, please refer to: link:https://www.atlassian.com/git/tutorials/syncing/git-pull[git pull]
+For more information on standard options, please refer to: link:https://www.atlassian.com/git/tutorials/syncing/git-pull[git pull]
