@@ -41,7 +41,7 @@ For more information about conflicts when merging and the merge procedure itself
 
 ==== Pulling a Branch
 In contrast to the merging described above, pulling a branch is a combination of fetching a remote repository and merging it with a local repository `git fetch + git merge`. 
-A local branch and a remote branch are depicted in the graphic below. The branches diverge after point "D", and merging the remote one to the local branch would create a new point in the local branch containing all the remote points.
+A local branch and a remote branch are depicted in the graphic below. The branches diverge after point "D", and merging the remote one into the local branch would create a new point in the local branch containing all the remote points.
 
 image::bubble-diagram.svg[width=400]
 
