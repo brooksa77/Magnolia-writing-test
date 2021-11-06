@@ -25,15 +25,6 @@ TIP: Keep the task concise. There's no need to over-complicate the instructions.
 == Answer
 
 // your answer goes here
-base:
-  vertical_rhythm: $base_line_height_length
-  horizontal_rhythm: $base_line_height_length
-
-admonition:
-  background_color: f5f5f5
-  border_color: 7d7d7d
-  border_width: 5
-  padding: [0, $horizontal_rhythm, 0, $horizontal_rhythm]
 
 === Taking a Selfie Using the Palm of your Hand
 
