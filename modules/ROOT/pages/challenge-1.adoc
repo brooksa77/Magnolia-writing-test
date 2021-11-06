@@ -65,4 +65,5 @@ image::switch-icon.png[role="zoom"]
 image::palm-pic.png[role="zoom"]
 
 Hey presto, a shutter icon will indicate a short countdown before the picture is taken.
+
 Note: If you are not using a Samsung A41, you might need to check with the manufacturer's instructions for your particular mobile.
