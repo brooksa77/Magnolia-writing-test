@@ -25,6 +25,11 @@ TIP: Keep the task concise. There's no need to over-complicate the instructions.
 == Answer
 
 // your answer goes here
+admonition:
+  background_color: f5f5f5
+  border_color: 7d7d7d
+  border_width: $base_border_width
+  padding: [0, $horizontal_rhythm, 0, $horizontal_rhythm]
 
 === Taking a Selfie Using the Palm of your Hand
 
@@ -66,4 +71,4 @@ image::palm-pic.png[role="zoom"]
 
 Hey presto, a shutter icon will indicate a short countdown before the picture is taken.
 
-Note: If you are not using a Samsung A41, you might need to check with the manufacturer's instructions for your particular mobile.
+NOTE: If you are not using a Samsung A41, you might need to check with the manufacturer's instructions for your particular mobile.
