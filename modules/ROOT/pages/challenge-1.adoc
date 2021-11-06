@@ -34,18 +34,18 @@ Firstly, your phone has to be configured to take photos using your palm. Not all
 
 ==== Shooting Method Setup
 
-. Go to your mobile phone settings, and then to “Apps”: image::mobile-settings.png[role="zoom"]
-. Find the “Camera” app and tap on it: image::apps.png[role="zoom"]
-. Inside the Camera app, tap on the “Camera settings” option: image::camera.png[role="zoom"]
-. Next tap on the “Shooting methods” option: image::camera-settings.png[role="zoom"]
-. Finally, make sure the option “Show palm” is turned on: image::shooting-methods.png[role="zoom"]
+. Go to your mobile phone settings, and then to “Apps” image::mobile-settings.png[role="zoom"]
+. Find the “Camera” app and tap on it image::apps.png[role="zoom"]
+. Inside the Camera app, tap on the “Camera settings” option image::camera.png[role="zoom"]
+. Next tap on the “Shooting methods” option image::camera-settings.png[role="zoom"]
+. Finally, make sure the option “Show palm” is turned on image::shooting-methods.png[role="zoom"]
 
 NOTE: If you don’t see this option under the shooting methods, your camera probably can’t be configured to take a selfie using your palm.
 
 ==== Changing to Selfie Mode and Taking the Snap
 
-. Open your camera by tapping the camera icon: image::camera-icon.png[role="zoom"]
-. Switch to selfie mode by tapping the icon to turn the camera around: image::switch-icon.png[role="zoom"]
-. Now you should see yourself on the camera, hold up the palm of your hand so that it is in the center of the photo: image::palm-pic.png[role="zoom"]
+. Open your camera by tapping the camera icon image::camera-icon.png[role="zoom"]
+. Switch to selfie mode by tapping the icon to turn the camera around image::switch-icon.png[role="zoom"]
+. Now you should see yourself on the camera, hold up the palm of your hand so that it is in the center of the photo image::palm-pic.png[role="zoom"]
 
 Hey presto, a shutter icon will indicate a short countdown, before a picture is taken.
