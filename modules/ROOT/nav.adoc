@@ -1,3 +1,3 @@
-* xref:index.adoc[]
-* xref:challenge-1.adoc[]
-* xref:challenge-2.adoc[]
+* xref:pages/index.adoc[]
+* xref:pages/challenge-1.adoc[]
+* xref:pages/challenge-2.adoc[]
