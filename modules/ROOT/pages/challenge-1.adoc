@@ -35,4 +35,4 @@ Firstly, your phone has to be configured to take photos using your palm. Not all
 ==== Shooting Method Setup
 
 . Go to your mobile phone settings, and then to “Apps”:
-image::mobile-settings.png[role="zoom"]
+image::apps/mobile-settings.png[role="zoom"]
