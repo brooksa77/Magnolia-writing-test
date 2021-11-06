@@ -20,12 +20,14 @@ Your audience is someone technical, but new to link:https://en.wikipedia.org/wik
 You know already that Git allows you to track changes in any set of files. For instance, a programmer may commit code into a repository.
 
 This repository may have several branches, for example, relating to various fixes and features, which different people may have done.
+
 image::git-branches-merge.png[role="zoom"]
 
 A merge or pull request is required to combine branches after work is complete in the respective branches depending on what needs to be merged. To refresh your knowledge on Git and tracking what has been done, read further here: https://www.nobledesktop.com/blog/what-is-git-and-why-should-you-use-it[What is Git]
 
 ==== Merging
 In the graphic below, two branches from the master branch are shown. A hotfix branch and a feature development branch called "iss53".
+
 image::basic-branching-4.png[role="zoom"]
 
 To combine the hotfix branch into the master branch, we first checkout the master branch and then perform the merge command:
@@ -39,6 +41,7 @@ For more information about conflicts when merging, please refer to: link:https:/
 
 ==== Pulling a Branch
 In contrast to the merging described above, pulling a branch is a combination of fetching a remote repository and merging it with a local repository.
-image::bubble-diagram.svg.png[role="zoom"]
+
+image::bubble-diagram.svg[role="zoom"]
 
 For more information on common options, please refer to: link:https://www.atlassian.com/git/tutorials/syncing/git-pull[git pull]
